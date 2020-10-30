@@ -1,1 +1,1 @@
-alert('welcome my friends')
+alert('page is sucsessfully without an trouble')

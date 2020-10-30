@@ -1,5 +1,4 @@
 h1 {
-    color: red;
     font-family: arial;
     font-size: 100px;
 }
@@ -11,5 +10,19 @@ h3 {
 
 p {
     font-family: arial;
-    color: blue;
 }
+
+html{
+    background: url('new.jpeg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    font-family: arial;
+   color: black;
+   text-align: center; 
+}
+
